@@ -113,6 +113,7 @@ Comprehensive platforms supporting multiple aspects of product management.
 - [Craft.io](https://craft.io/) — Product management and planning platform.
 - [airfocus](https://airfocus.com/) — Product prioritization and roadmapping software.
 - [ProdPad](https://www.prodpad.com/) — Product management and idea management platform.
+- [ProductSpot](https://www.productspot.io/) - Product strategy and discovery in one workspace: goals, research, opportunities and a shareable roadmap.
 
 ## Learning Resources
 
